@@ -1,0 +1,6 @@
+framework module Pods_RealmStretchyList {
+  umbrella header "Pods-RealmStretchyList-umbrella.h"
+
+  export *
+  module * { export * }
+}
